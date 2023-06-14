@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "EX01.C": "cpp",
+        "EX02.C": "cpp",
+        "EX03.C": "cpp",
+        "EX04.C": "cpp",
+        "EX05.C": "cpp",
+        "EX06.C": "cpp",
+        "EX06-Inc.C": "cpp",
+        "EX07.C": "cpp",
+        "EX08.C": "cpp",
+        "EX09.C": "cpp",
+        "EX06-Primo.C": "cpp",
+        "EX10.C": "cpp",
+        "EXTRA.C": "cpp",
+        "EX11.C": "cpp",
+        "EX12.C": "cpp",
+        "EX14.C": "cpp"
+    }
+}

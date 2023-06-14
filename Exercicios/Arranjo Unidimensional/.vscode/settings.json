@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "EX03.C": "cpp",
+        "EX02.C": "cpp",
+        "EX01.C": "cpp",
+        "EX01_Lista.C": "cpp",
+        "EX02_Lista.C": "cpp",
+        "EX03_Lista.C": "cpp",
+        "EX04_Lista.C": "cpp",
+        "EX05_Lista.C": "cpp",
+        "EX07_Lista.C": "cpp",
+        "EX06_Lista.C": "cpp",
+        "EX08_Lista.C": "cpp"
+    }
+}

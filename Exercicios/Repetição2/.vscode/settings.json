@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "EX01.C": "cpp",
+        "EX02.C": "cpp",
+        "EX01-Enquanto.C": "cpp",
+        "EX02-Enquanto.C": "cpp",
+        "EX01-Repita.C": "cpp",
+        "EX02-Repita.C": "cpp",
+        "TEST.C": "cpp"
+    }
+}
